@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-dat
 
 Di bagian ini, jelaskan temuan-temuan utama dari analisis data Anda.
 * Distribusi Stres: Temuan bahwa mayoritas responden melaporkan mengalami Eustress (stres positif), meskipun terdapat juga responden dengan Distress dan Tanpa Stres.
-* Faktor Pemicu Stres: Jelaskan bahwa analisis korelasi menunjukkan faktor-faktor seperti 'anxiety_level', 'depression', 'future_career_concerns', dan 'academic_performance' memiliki korelasi tertinggi dengan tingkat stres siswa.
+* Faktor Pemicu Stres: Jelaskan bahwa analisis korelasi menunjukkan faktor-faktor seperti `anxiety_level`, `depression`, `future_career_concerns`, dan `academic_performance` memiliki korelasi tertinggi dengan tingkat stres siswa.
 * Peran AI: Tunjukkan bahwa ada perbedaan antara label stres yang dilaporkan oleh responden dan klasifikasi yang dibuat oleh model AI. Ini adalah wawasan kunci yang menunjukkan bahwa model AI menginterpretasikan data secara logis berdasarkan indikator objektif, yang terkadang berbeda dari persepsi subyektif manusia.
 
 **AI Support Explanation**
